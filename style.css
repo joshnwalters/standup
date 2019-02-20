@@ -1,0 +1,15 @@
+.stuc-background {
+  background-color: #ff8e00;
+}
+
+.ui.one.column.container {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  max-width: 76.125rem;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 20px; !important;
+  font-color: white; !important;
+}
